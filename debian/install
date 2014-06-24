@@ -1,2 +1,2 @@
-manifests   etc/puppet/modules/vim
-files       etc/puppet/modules/vim
+manifests   usr/share/puppet/modules.available/vim
+files       usr/share/puppet/modules.available/vim
